@@ -23,24 +23,25 @@ Ensure you have **Python 3.8+** installed on your system.
 
 ### Step 1: Clone the Repository
 
-```bash
+```python
 git clone https://huggingface.co/spaces/mehtasambhav/flan-t5-qa
-
+```
 
 
 ### Step 2: Install Dependencies
 Install the required Python packages using:
 
-```bash
+```python
 pip install -r requirements.txt
+```
 
 ### Step 3: Run the Application
 
 Launch the app locally using:
 
-```bash
+```python
 streamlit run app.py
-
+```
 ## Requirements
 The following Python libraries are required to run the app:
 
